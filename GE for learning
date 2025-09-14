@@ -1,3 +1,10 @@
+<!-- Chosen Palette: Calm Neutrals (Amber and Stone) -->
+<!-- Application Structure Plan: The SPA is now focused solely on "เทคโนโลยี DNA". The structure uses a task-oriented design: an initial overview followed by three large, clickable "mission" cards representing different applications. Clicking a card drills down into a detailed view for that specific topic (e.g., Medicine), hiding the main selection. This two-step process (overview -> specific task) is designed to guide students in group activities directly to the information they need, making the interface more goal-oriented and streamlined. -->
+<!-- Visualization & Content Choices: 
+- Main Navigation -> Goal: Organize -> Viz: N/A (Single topic) -> Interaction: None -> Justification: Navigation is no longer needed as the app focuses on one topic.
+- DNA Missions -> Goal: Organize/Inform -> Viz: Large clickable cards -> Interaction: Click to reveal detailed content view -> Justification: Guides students to specific sections for group activities, improving workflow. Method: JavaScript.
+-->
+<!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
 <!DOCTYPE html>
 <html lang="th">
 <head>
